@@ -1,2 +1,2 @@
 # REST-API
-Building basic REST API's in Python's micro-framework Flask
+Building basic REST API's using Python's micro-framework Flask
